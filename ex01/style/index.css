@@ -1,0 +1,32 @@
+    .cards-gallery {
+        position: relative;
+        border: 2 px solid black;
+        width: 800px;
+        margin: 10px auto;
+    }
+    
+    .cards-gallery div {
+        box-sizing: border-box;
+        text-align: center;
+    }
+    
+    h1 {
+        font-size: 25px;
+        color: #ff5151;
+        text-align: center;
+    }
+    
+    h2 {
+        font-size: 20px;
+        color: #66a3ff:
+    }
+    
+    p {
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    img {
+        width: 400px;
+        height: 300px;
+    }
